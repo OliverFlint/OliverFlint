@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Oliver, I enjoy coding, family, rugby and horses.
+
+- 🔭 I’m currently working on tooling and blogs for D365 and the Power Platform
+- 🌱 I’m currently learning lots about devops and ALM for D365 and the Power Platform
+- 👯 I’m looking to collaborate on anything i feel excited about
+- 💬 Ask me about D365 and Power Platform development
+- 📫 How to reach me:
+  - 🌐 [oliverflint.co.uk](https://www.oliverflint.co.uk/)
+  - 🐦 [@oliver_flint](https://twitter.com/oliver_flint)
+- ⚡ Fun fact: I once got 10 seconds of fame in the Royal Veriety Performance
 
 <!--
 **OliverFlint/OliverFlint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
